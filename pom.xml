@@ -77,7 +77,7 @@
         <!-- to compile against Accumulo 1.8.0, use the accumulo-1.8 profile -->
         <accumulo.version>1.7.2</accumulo.version>
         <zookeeper.version>3.4.5</zookeeper.version>
-        <thrift.version>0.9.1</thrift.version>
+        <thrift.version>0.14.0</thrift.version>
         <hadoop.version>2.5.2</hadoop.version>
         <spark.version>2.0.0</spark.version>
         <hbase.version>1.2.3</hbase.version>
